@@ -2,6 +2,7 @@ package com.razorpay.sampleapp;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -12,7 +13,7 @@ import com.razorpay.PaymentResultListener;
 
 import org.json.JSONObject;
 
-public class PaymentActivity extends Activity implements PaymentResultListener {
+public class PaymentActivity extends AppCompatActivity implements PaymentResultListener {
     private static final String TAG = PaymentActivity.class.getSimpleName();
 
     @Override

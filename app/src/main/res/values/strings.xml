@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_manual_method"><u>Enter details manually</u></string>
+    <string name="label_purchase">Purchase</string>
+    <string name="label_product_name">Razorpay T-Shirt</string>
+    <string name="label_price">INR 1.00</string>
+    <string name="label_order_id">Order #RZP42</string>
+    <string name="label_or">or</string>
+    <string name="label_secure_by">Secure Payments by Razorpay</string>
+    <string name="label_real_transaction">This is a real transaction</string>
+</resources>
